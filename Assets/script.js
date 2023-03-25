@@ -19,7 +19,7 @@ $(function () {
     // Save text in local storage
     localStorage.setItem(time, text);
   })
-
+// track times tasks/verbiage is input
   function timeTracker() {
     // number of current hours
     var timeNow = dayjs().hour();
