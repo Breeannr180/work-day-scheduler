@@ -1,6 +1,3 @@
-// Wrap all code that interacts with the DOM in a call to jQuery to ensure that
-// the code isn't run until the browser has finished rendering all the elements
-// in the html.
 
 // Display today's date 
 var today = dayjs()
@@ -8,9 +5,9 @@ var today = dayjs()
 // var time = dayjs().hour()
 $("#currentDay").text(today.format("dddd, MMMM D YYYY, h:mm A"));
 
-// 
 
 
+// wraps the code
 $(document).ready(function () {
   function getdate() {
     var today = new Date();
