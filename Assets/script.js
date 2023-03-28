@@ -1,11 +1,8 @@
 
-// Display today's date 
+// Display today's date and time
 var today = dayjs()
 
-// var time = dayjs().hour()
 $("#currentDay").text(today.format("dddd, MMMM D YYYY, h:mm A"));
-
-
 
 // wraps the code
 $(document).ready(function () {
