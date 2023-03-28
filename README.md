@@ -16,8 +16,9 @@ Features include the current date, and timeblocks for inputing and saving specif
 
 https://breeannr180.github.io/work-day-scheduler/
 
+![Screenshot 2023-03-27 at 9 49 33 PM](https://user-images.githubusercontent.com/120619974/228131824-8e4847b4-ea59-4a4d-9521-3efaed9f57eb.png)
 
-Screenshot 2023-03-27 at 9.49.33 PM.png
+
 
 
 
